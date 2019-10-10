@@ -7,7 +7,7 @@ public class HelloGit {
 
     public static void main(String[] args) {
 		// Prints "Hello world" to the terminal window.
-        System.out.println("Hello World");
+        System.out.println("Git is no fun");
     }
 
 }
