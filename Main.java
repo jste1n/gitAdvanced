@@ -1,12 +1,13 @@
 /**
  * a simple hello world program
  * @author Jan-Philipp Steinwender
+ * @version 2
  */
 public class HelloGit {
 
     public static void main(String[] args) {
-		// Prints "Hello Git" to the terminal window.
-        System.out.println("Hello Git");
+		// Prints "Hello world" to the terminal window.
+        System.out.println("Hello World");
     }
 
 }
